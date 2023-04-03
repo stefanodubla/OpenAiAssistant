@@ -1,6 +1,6 @@
-Progetto generato seguendo la seguente [guida](https://www.programmareinpython.it/blog/chatgpt-e-python-integrazione-open-ai/)
+Progetto generato seguendo la seguente [guida](https://www.programmareinpython.it/blog/chatgpt-e-python-integrazione-open-ai/).
 
-è necessario creare un file 
+E' necessario creare un file 
 ```bash 
 secret.json
 ``` 
